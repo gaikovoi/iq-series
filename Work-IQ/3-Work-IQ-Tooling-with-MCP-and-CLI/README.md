@@ -2,7 +2,7 @@
 
 [![Episode 3 video](../../images/work-iq/ep3.png)](https://aka.ms/iq-series/work-iq/episode3)
 
-📅 **June 2, 2026 at 9 AM PT** | 📺 [Watch the session](https://aka.ms/iq-series/work-iq/episode3) | 📂 [Try the lab](./lab/)
+📅 **June 30, 2026 at 9 AM PT** | 📺 [Watch the session](https://aka.ms/iq-series/work-iq/episode3) | 📂 [Try the lab](./lab/)
 
 ## 🎥 Session Summary
 
