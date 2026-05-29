@@ -1,6 +1,6 @@
 # Episode 3 Cookbook: Querying the Multi-Source AI Knowledge Bases
 
-This folder contains the hands-on cookbook and MCP connection guides for Episode 3 of The IQ Series.
+This folder contains the hands-on cookbook and MCP connection guides for Episode 3 of The Foundry IQ Series.
 
 ## 📋 Prerequisites
 
@@ -51,7 +51,7 @@ AOAI_GPT_DEPLOYMENT=gpt-4o-mini
 
 **Where to find these values:** All values are available in the deployment **Outputs** tab in the Azure portal.
 
-For CLI deployment and cleanup instructions, see the [Infrastructure Guide](../../infra/README.md).
+For CLI deployment and cleanup instructions, see the [Infrastructure Guide](../../../infra/README.md).
 
 ## 📓 Cookbook Notebook
 
