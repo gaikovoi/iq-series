@@ -31,6 +31,7 @@ Together, these IQs enable AI agents to reason, retrieve, and act with deep busi
 | [Work IQ: A2A for Context‑Aware, Agentic Experiences](./Work-IQ/2-Work-IQ-A2A-for-Context‑Aware-Agentic-Experiences/README.md)                  | Explores the A2A protocol, agent discovery patterns, and practical prototyping for context-aware agentic workflows. | [Watch Now 🎥](https://aka.ms/work-iq-series/episode2) | [Cookbook](./Work-IQ/2-Work-IQ-A2A-for-Context‑Aware-Agentic-Experiences/cookbook/README.md) |
 | [Work IQ: Tooling with MCP & Copilot CLI](./Work-IQ/3-Work-IQ-Tooling-with-MCP-and-Copilot-CLI/README.md)                  | Explores the unified MCP server of Work IQ and how to use it in Work IQ CLI and GitHub Copilot CLI. | [Watch Now 🎥](https://aka.ms/work-iq-series/episode3) | [Cookbook](./Work-IQ/3-Work-IQ-Tooling-with-MCP-and-Copilot-CLI/cookbook/README.md) |
 | Fabric IQ                                                                                                                            | Coming soon!                                                                       |                 |                                                                                     |
+| Web IQ                                                                                                                               | Coming soon!                                                                       |                 |                                                                                     |
 
 ### Episode Format
 
